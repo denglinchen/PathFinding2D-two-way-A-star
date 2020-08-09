@@ -1,0 +1,7 @@
+﻿  PathFindingDll.cpp
+E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\PathFinding\PathFinding.h(455,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\PathFinding\PathFinding.h(460,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\PathFinding\PathFinding.h(464,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\PathFinding\PathFindingDll.cpp(58,19): warning C4305: “=”: 从“double”到“float”截断
+    正在创建库 E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\Debug\PathFinding.lib 和对象 E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\Debug\PathFinding.exp
+  PathFinding.vcxproj -> E:\U3D_NOTE\PathFinding(two-way A star)\PathFinding2D-two-way-A-star\PathFinding\Debug\PathFinding.dll
